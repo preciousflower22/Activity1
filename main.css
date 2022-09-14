@@ -90,7 +90,7 @@ ul.bc-policy-logo {
 
 
 .card {
-    width:320px;
+    width:230px;
     background-color: #F3F6F7;
     border: 1px solid #bdb9b9;
     display: inline-block;
@@ -109,7 +109,9 @@ ul.bc-policy-logo {
     height: 150px;    
 }  
 
-ul.bc-policy-logo {
+ul.bc-menu-logo {
     list-style-image:url("menu.jpg");
     margin-left:20px;
+    size: 2px;
+    
 }
